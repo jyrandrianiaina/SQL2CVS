@@ -1,0 +1,2 @@
+mysrv01
+mysrv02
